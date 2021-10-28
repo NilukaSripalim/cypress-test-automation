@@ -1,0 +1,23 @@
+{
+  "name": "cypress-test-automation",
+  "version": "1.0.0",
+  "description": "This repository is maintaining for update my cypress knowledge, keep example code for series of blog posts and share with others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilukaSripalim/cypress-test-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NilukaSripalim/cypress-test-automation/issues"
+  },
+  "homepage": "https://github.com/NilukaSripalim/cypress-test-automation#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
